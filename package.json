@@ -1,0 +1,19 @@
+{
+  "name": "number-guessing-game_ybr123_",
+  "version": "1.0.1",
+  "description": "I am create a number guessing game by using Typescript",
+  "main": "Coding.js",
+  "type": "module",
+  "bin": "Coding.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Umer Farooq",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
